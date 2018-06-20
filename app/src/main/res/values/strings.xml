@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PeerToPeer</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email ID</string>
+    <string name="phone">Phone Number</string>
+    <string name="institute">School/College</string>
+    <string name="strength">Subject Strength</string>
+    <string name="weak">Subject Weakness</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="done">Done</string>
+    <string name="matches">Best Matches:</string>
+    <string name="search">Search</string>
+    <string name="Send">Send</string>
+    <string name="message">\"Hi, I would like to connext with you!\"</string>
+</resources>
